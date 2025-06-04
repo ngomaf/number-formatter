@@ -1,5 +1,5 @@
 # Number formatter
-Simple number formatter (Formadador simples de número)
+Simple number formatter (Formatador simples de número)
 
 This component have two features:
 - format: to formatter int or float number with thousands separator. Return object with two parameters

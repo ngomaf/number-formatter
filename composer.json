@@ -1,6 +1,6 @@
 {
     "name": "ngomafortuna/number-formatter",
-    "description": "Simple number formatter (Formadador simples de número)",
+    "description": "Simple number formatter (Formatador simples de número)",
     "type": "library",
     "license": "BSD-3-Clause",
     "autoload": {
