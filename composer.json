@@ -1,0 +1,22 @@
+{
+    "name": "ngomafortuna/number-formatter",
+    "description": "Simple number formatter (Formadador simples de número)",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Ngomafortuna\\NumberFormatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngoma M. Fortuna",
+            "email": "ngomafortuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "symfony/var-dumper": "^7.3"
+    }
+}
